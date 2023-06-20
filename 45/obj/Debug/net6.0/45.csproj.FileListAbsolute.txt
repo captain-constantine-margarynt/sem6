@@ -1,0 +1,15 @@
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/bin/Debug/net6.0/45
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/bin/Debug/net6.0/45.deps.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/bin/Debug/net6.0/45.runtimeconfig.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/bin/Debug/net6.0/45.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/bin/Debug/net6.0/45.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/45.csproj.AssemblyReference.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/45.AssemblyInfoInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/45.AssemblyInfo.cs
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/45.csproj.CoreCompileInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/45.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/refint/45.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/45.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/45.genruntimeconfig.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 6. Одномерные массивы. Продолжение/sem6/HW6/45/obj/Debug/net6.0/ref/45.dll
